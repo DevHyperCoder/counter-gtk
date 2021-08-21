@@ -1,6 +1,14 @@
 # Counter App - GTK 4
 
-**WIP**
+## Features
+
+- Increment / Decrement
+- Set min count and max count via GUI interface.
+
+## TODO
+
+- Error handling when `max < min`
+- Respect sys theme.
 
 > `compile_commands.json` is present only for clangd completion. You may generate it using `intercept-build ./build.sh`
 
